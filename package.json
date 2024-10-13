@@ -9,7 +9,9 @@
   },
   "type": "module",
   "scripts": {
-    "start": "node lib/index.js"
+    "start": "node lib/index.js",
+    "all": "npm test",
+    "test": "mocha"
   },
   "engines": {
     "node": ">= 20"
