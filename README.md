@@ -1,7 +1,6 @@
-# tls-rpt-monitor
+# tls-rpt-dmarc-monitor
 
-> Simple. Stupid. TLS Report monitoring.
-
+> TLS and DMARC reporting/monitoring back-end.
 
 Find out when something goes wrong. Don't find out when it doesn't.
 Simple.
